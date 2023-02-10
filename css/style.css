@@ -1,7 +1,7 @@
 @charset "UTF-8";
 @font-face {
     font-family: Recline;
-    src: url(/fonts/Recline-Medium.otf);
+    src: url(./fonts/Recline-Medium.otf);
 }
 * {
     margin: 0;
